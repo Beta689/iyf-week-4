@@ -22,8 +22,3 @@ Repository: `iyf-s10-week-01-yourusername`
 - `day3-contact-section.html`
 - `day4-gallery.html`
 - `day5-blog-layout.html`
-
-## Notes
-- Replace placeholder identity details (`Alex Carter`, `alex@example.com`) with your real information.
-- Run Lighthouse and update `accessibility-report.md` with your final score.
-- Add your actual DevTools screenshots in `images/` and reference them in the markdown files.
