@@ -1,10 +1,5 @@
 # Week 1: Web Foundations Portfolio
 
-Repository: `iyf-s10-week-01-yourusername`
-
-## Live Site
-- GitHub Pages URL: `https://yourusername.github.io/iyf-s10-week-01-yourusername`
-
 ## Completed Files
 - `index.html` (home page)
 - `about.html` (about me)
